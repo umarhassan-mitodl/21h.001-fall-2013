@@ -4,8 +4,6 @@ description: This syllabus section provides the course description and informati
   on meeting times, prerequisites, grading, criteria for HASS CI subjects, a statement
   on cheating and plagiarism, and the schedule of lecture topics, recitations, speakers,
   and assignment due dates.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -24,7 +22,7 @@ For this course, there are three instructors, each of whom leads a recitation.
 Description
 -----------
 
-21H.001, a [CI-H subject](http://web.mit.edu/commreq/), explores fundamental questions about the causes and nature of revolutions. How do people overthrow their rulers? How do they establish new governments? Do radical upheavals require bloodshed, violence, or even terror? How have rolutionaries attempted to establish their ideals and realize their goals? Have revolutionary outcomes ever matched initial expectations? To answer these and other questions, we will study three major examples of profound political, social, cultural, and economic transformation in the late eighteenth and early nineteenth centuries: the American, French, and Haitian Revolutions. We will also compare these revolutions to the events that have unfolded in Egypt since the beginning of 2011. By the end of the course, students will be able to offer reasons why some revolutions succeed and others fail. Materials for the course include the writings of revolutionaries, declarations and constitutions, music, films, art, memoirs, and newspapers.
+21H.001, a {{% resource_link "6de3d587-a588-48e9-82d2-7751519e241b" "CI-H subject" %}}, explores fundamental questions about the causes and nature of revolutions. How do people overthrow their rulers? How do they establish new governments? Do radical upheavals require bloodshed, violence, or even terror? How have rolutionaries attempted to establish their ideals and realize their goals? Have revolutionary outcomes ever matched initial expectations? To answer these and other questions, we will study three major examples of profound political, social, cultural, and economic transformation in the late eighteenth and early nineteenth centuries: the American, French, and Haitian Revolutions. We will also compare these revolutions to the events that have unfolded in Egypt since the beginning of 2011. By the end of the course, students will be able to offer reasons why some revolutions succeed and others fail. Materials for the course include the writings of revolutionaries, declarations and constitutions, music, films, art, memoirs, and newspapers.
 
 Prerequsites
 ------------
@@ -113,7 +111,7 @@ Suggested paper topics and guidelines will be distributed in due course. There w
 
 **Statement on Cheating and Plagiarism**. The web now hosts many sites which offer college level papers of varying quality on a variety of topics. We are well acquainted with these sites, and with others that offer detection services to professors. Buying a paper and submitting it as your own work is cheating. Copying sections from someone else's print or online work into your own without an acknowledgement is plagiarism. MIT has strict policies against both activities that we will fully enforce. For the appropriate MIT definitions and policies, visit the following website. If you are uncertain about what constitutes cheating or plagiarism, please contact your recitation instructor before submitting the work in question.
 
-Academic Integrity at MIT: [A Handbook for Students](http://integrity.mit.edu/)
+Academic Integrity at MIT: {{% resource_link "597e0d06-1aca-45cc-977e-7be745e587c7" "A Handbook for Students" %}}
 
 Calendar
 --------
