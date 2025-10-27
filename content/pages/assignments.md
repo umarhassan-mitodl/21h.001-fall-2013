@@ -20,7 +20,7 @@ During Extra Session 1 you will be required to post a response of 200–300 word
 
 ## A Word of Warning
 
-Your paper should rely entirely on the required and optional primary and secondary sources. We do not consider Wikipedia or any online Internet sources adequate information for this paper. You may consult the Internet if you are looking for a particular piece of information (e.g., a date) that is considered common knowledge. We will also strongly prosecute any instances of plagiarism, so we recommend you know what it is: [MIT: Avoiding Plagiarism](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/).
+Your paper should rely entirely on the required and optional primary and secondary sources. We do not consider Wikipedia or any online Internet sources adequate information for this paper. You may consult the Internet if you are looking for a particular piece of information (e.g., a date) that is considered common knowledge. We will also strongly prosecute any instances of plagiarism, so we recommend you know what it is: {{% resource_link "93bb262e-2215-4905-8185-ea2b2c2d3aec" "MIT: Avoiding Plagiarism" %}}.
 
 ## Paper 1
 
